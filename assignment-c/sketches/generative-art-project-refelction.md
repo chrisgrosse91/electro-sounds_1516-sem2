@@ -5,6 +5,9 @@
 
 <https://www.youtube.com/watch?v=N9k4i6FpKRw>
 
+##Visual Concept & Example:
+<https://contour07.wordpress.com/2010/05/20/how-to-get-musical-colors-back-on-windows-media-player/>
+
 ###What is the concept?
 
 The concept was to recreate the old school visualisations of the windows media player through processing. Collaborating it with modern visualisations as well as being audio-reactive, i wanted to blend these two worlds together.
